@@ -1,4 +1,4 @@
-# PPs_PT
-Políticas de privacidade escritas em PT e coletadas a partir da Google App Store em fevereiro de 2021.
+# APP-BR
 
-O conteúdo é resultante de uma remoção de boilerplate das páginas html originais.
+# PPs_PT
+Portuguese privacy policies collected from Google App Store in February 2021. They are the output of a trafilatura boilerplate removal over the original html files.
